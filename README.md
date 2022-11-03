@@ -1,16 +1,6 @@
-# primeiro_app
+# Frases Marcantes - Steve Jobs
+> Meu Primeiro App utilizando o Framework Flutter.
 
-Primeiro App em Flutter.
+Aplicação baseada no projeto demo do Flutter, modificada para receber um vetor com 10 frases marcantes do Steve Jobs. O botão flutante recebe um número aleatório correspondente ao número de frases, acessa o vetor e altera o conteúdo da tela.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![simulator-screen-shot](simulator-screen-shot.png) ![simulator-screen-shot-2](simulator-screen-shot-2.png)
