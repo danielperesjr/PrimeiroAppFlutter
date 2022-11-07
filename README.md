@@ -20,7 +20,7 @@ Conteúdo estudado e implementado neste App: introdução ao material design, es
 * 20221106:
     * Código refeito do zero para assimilar o conteúdo de estrutura de projeto Flutter e componentes de interface.
 * 20221102:
-     * Projeto inicial: baseado no projeto demo do Flutter, modificado para receber um vetor com 10 frases marcantes do Steve Jobs. O botão flutante recebe um número aleatório correspondente ao número de frases, acessa o vetor e altera o conteúdo da tela.
+     * Projeto inicial: baseado no projeto demo do Flutter, modificado para receber um vetor com 10 frases marcantes do Steve Jobs. O botão flutuante recebe um número aleatório correspondente ao número de frases, acessa o vetor e altera o conteúdo da tela.
 
 ## Links:
 
